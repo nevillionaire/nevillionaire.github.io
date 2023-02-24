@@ -4,4 +4,4 @@ This is a fully responsive personal portfolio website for all devices, built usi
 
 This project is purely **Open source.** 
 
-Check it out here [personal-portfolio](https://nevillionaire.github.io/portfolio/)
+Check it out here [personal-portfolio](https://nevillionaire.github.io/port4lio/)
